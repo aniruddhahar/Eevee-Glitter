@@ -6,4 +6,5 @@ Really simple shader for making glitter with Eevee! It uses the 4D Voronoi textu
 ## Instructions: 
 Just receate the shader nodes show in 'Images/nodes.png' or Download the .blend file, and link the nodes as a nodegroup.
 
+![Nodes](/Images/glitter.png)
 ![Nodes](/Images/nodes.png)
